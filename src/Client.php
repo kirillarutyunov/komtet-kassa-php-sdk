@@ -85,7 +85,7 @@ class Client
 
     /**
      * @param string $path
-     * @param mixed $data
+     * @param mixed|null $data
      *
      * @return mixed
      */
